@@ -1,0 +1,9 @@
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\bin\Debug\Nutshell.Database.dacpac
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\bin\Debug\Nutshell.Database.dll
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\bin\Debug\Nutshell.Database.pdb
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\obj\Debug\Model.xml
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\obj\Debug\refactor.xml
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\obj\Debug\postdeploy.sql
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\obj\Debug\predeploy.sql
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\obj\Debug\Nutshell.Database.dll
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Database\obj\Debug\Nutshell.Database.pdb

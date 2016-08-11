@@ -1,0 +1,10 @@
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\Nutshell.Models.dll.config
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\Nutshell.Models.dll
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\Nutshell.Models.pdb
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\EntityFramework.dll
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\EntityFramework.xml
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\obj\Debug\Nutshell.Models.csprojResolveAssemblyReference.cache
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\obj\Debug\Nutshell.Models.dll
+C:\Users\John\Source\Repos\Nutshell\Nutshell.Web\Nutshell.Models\obj\Debug\Nutshell.Models.pdb
