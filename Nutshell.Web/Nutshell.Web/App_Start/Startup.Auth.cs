@@ -54,9 +54,9 @@ namespace Nutshell.Web
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "679593702190743",
+               appSecret: "d05eca17ec553fb9817ae84c761fa022");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
